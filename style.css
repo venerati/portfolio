@@ -13,6 +13,28 @@
 	border: none;
 }
 
+.thumbProj:hover {
+	background-color: #e6e6e6;
+}
+/*
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 97.3%;
+  width: 92.2%;
+  margin-left: 4%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.thumbProj:hover .overlay {
+  opacity: .3;
+}
+*/
 .headBackground {
 	background-image: url("./img/background.jpg");
 	background-size:100% 100%;
@@ -82,7 +104,7 @@
 
 .projectsBackground {
 	background: #969696;
-	height: 50em;
+	height: 55em;
 	padding-top: 1em;
 }
 
